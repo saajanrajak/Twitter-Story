@@ -7,7 +7,7 @@ library(plotly)
 #r.federer
 tennis_fig <- plot_ly(
   type = "funnel",
-  name ="R. Fedreer",
+  name ="R. Federer",
   orientation = "h",
   y = c("Tournament", "Quarter", "Semis", "Final", "Winner"),
   x = c(77, 57, 46, 31, 20),
