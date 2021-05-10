@@ -42,4 +42,4 @@ tennis_fig %>%
   layout(title =  list(text = '<b> Grand Slam Tennis </b>'),
          legend = list(x = 0.8, y = 0.1, title = list(text = '<b> Player </b>')),
          yaxis = list(categoryarray = c("Tournament", "Quarter", "Semis", "Final", "Winner")),
-         colorway = c("deepskyblue4", "salmon", "goldenrod1"))
+         colorway = c("deepskyblue4", "coral3", "goldenrod1"))
